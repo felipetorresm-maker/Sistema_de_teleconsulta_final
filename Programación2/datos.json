@@ -1,0 +1,10 @@
+{"identificacion": "1111", "name": "ana", "password": "1111", "rol": "paciente", "estado": "192.168.197.114"}
+{"identificacion": "2222", "name": "epaa", "password": "2222", "rol": "paciente", "estado": "000"}
+{"identificacion": "3333", "name": "julian", "password": "3333", "rol": "Medico", "estado": "inactivo"}
+{"identificacion": "1125248351", "name": "Mia", "password": "5522", "rol": "paciente", "estado": "192.168.197.114"}
+{"identificacion": "1094956515", "name": "julian torres ", "password": "4567", "rol": "paciente", "estado": "inactivo"}
+{"identificacion": "123456", "name": "pepita", "password": "1020", "rol": "paciente", "estado": "10.74.49.183"}
+{"identificacion": "333444555", "name": "Chapatin", "password": "0000", "rol": "Medico", "estado": "10.74.49.249"}
+{"identificacion": "1122", "name": "Felipe", "password": "1234", "rol": "Medico", "estado": "10.74.49.249"}
+{"identificacion": "4444", "name": "Carlos", "password": "4444", "rol": "Medico", "estado": "10.74.49.249"}
+{"identificacion": "5555", "name": "Juana", "password": "5555", "rol": "paciente", "estado": "10.74.49.183"}
